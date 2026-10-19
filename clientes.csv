@@ -1,0 +1,1001 @@
+id_cliente,nome,sexo,idade,cidade,estado,data_cadastro,faixa_renda,score_credito
+1,Cliente 1,M,26,São Paulo,SP,2023-05-17,Alta,581
+2,Cliente 2,M,23,São Paulo,SP,2022-03-07,Alta,732
+3,Cliente 3,M,63,Rio de Janeiro,RJ,2022-02-24,Alta,916
+4,Cliente 4,F,69,Porto Alegre,RS,2025-04-21,Baixa,759
+5,Cliente 5,F,27,São Paulo,SP,2023-11-28,Alta,732
+6,Cliente 6,M,40,Rio de Janeiro,RJ,2024-02-18,Baixa,394
+7,Cliente 7,M,42,Belo Horizonte,MG,2025-01-03,Baixa,770
+8,Cliente 8,M,63,Campinas,SP,2024-01-11,Alta,933
+9,Cliente 9,M,72,São Paulo,SP,2023-08-16,Alta,533
+10,Cliente 10,F,28,Rio de Janeiro,RJ,2024-07-17,Média,584
+11,Cliente 11,M,56,Belo Horizonte,MG,2025-10-31,Baixa,573
+12,Cliente 12,F,58,Rio de Janeiro,RJ,2024-02-17,Baixa,773
+13,Cliente 13,M,70,Porto Alegre,RS,2022-04-25,Alta,632
+14,Cliente 14,M,54,Campinas,SP,2022-05-16,Média,574
+15,Cliente 15,F,27,Belo Horizonte,MG,2024-03-21,Alta,811
+16,Cliente 16,F,65,Belo Horizonte,MG,2025-01-08,Baixa,874
+17,Cliente 17,M,26,Porto Alegre,RS,2024-01-12,Alta,708
+18,Cliente 18,M,58,Porto Alegre,RS,2022-08-13,Baixa,348
+19,Cliente 19,F,56,Rio de Janeiro,RJ,2024-02-28,Alta,365
+20,Cliente 20,M,61,Curitiba,PR,2025-10-25,Alta,311
+21,Cliente 21,F,45,Porto Alegre,RS,2022-08-17,Alta,648
+22,Cliente 22,M,50,Rio de Janeiro,RJ,2024-10-22,Baixa,569
+23,Cliente 23,M,27,Campinas,SP,2025-06-01,Alta,819
+24,Cliente 24,F,49,Belo Horizonte,MG,2022-01-02,Alta,843
+25,Cliente 25,M,33,São Paulo,SP,2023-05-06,Média,614
+26,Cliente 26,M,26,Porto Alegre,RS,2022-05-22,Baixa,797
+27,Cliente 27,F,31,Curitiba,PR,2025-05-27,Média,840
+28,Cliente 28,F,46,Porto Alegre,RS,2024-03-28,Alta,619
+29,Cliente 29,M,39,Porto Alegre,RS,2023-04-06,Baixa,553
+30,Cliente 30,M,63,São Paulo,SP,2022-01-15,Alta,525
+31,Cliente 31,M,50,São Paulo,SP,2023-11-08,Baixa,332
+32,Cliente 32,M,64,Rio de Janeiro,RJ,2023-03-15,Alta,797
+33,Cliente 33,M,24,Porto Alegre,RS,2024-04-13,Baixa,784
+34,Cliente 34,F,73,Campinas,SP,2024-04-21,Média,733
+35,Cliente 35,M,33,São Paulo,SP,2023-11-26,Baixa,712
+36,Cliente 36,F,29,Rio de Janeiro,RJ,2022-10-15,Alta,759
+37,Cliente 37,M,21,Belo Horizonte,MG,2024-06-26,Baixa,377
+38,Cliente 38,F,49,Porto Alegre,RS,2022-12-07,Baixa,542
+39,Cliente 39,F,18,Curitiba,PR,2022-12-04,Média,360
+40,Cliente 40,F,27,Curitiba,PR,2024-05-16,Média,592
+41,Cliente 41,M,65,Rio de Janeiro,RJ,2025-04-01,Baixa,359
+42,Cliente 42,M,21,Belo Horizonte,MG,2024-09-03,Baixa,898
+43,Cliente 43,M,61,Porto Alegre,RS,2025-05-03,Baixa,370
+44,Cliente 44,M,57,Rio de Janeiro,RJ,2023-05-20,Baixa,883
+45,Cliente 45,F,34,Campinas,SP,2025-03-03,Alta,897
+46,Cliente 46,M,60,Rio de Janeiro,RJ,2024-03-21,Baixa,571
+47,Cliente 47,F,57,Belo Horizonte,MG,2022-01-20,Média,374
+48,Cliente 48,F,26,Porto Alegre,RS,2023-03-13,Baixa,850
+49,Cliente 49,M,46,Belo Horizonte,MG,2023-08-07,Baixa,678
+50,Cliente 50,F,60,Porto Alegre,RS,2022-01-17,Alta,841
+51,Cliente 51,M,35,São Paulo,SP,2022-08-08,Média,418
+52,Cliente 52,F,50,Belo Horizonte,MG,2023-02-21,Alta,651
+53,Cliente 53,F,71,Curitiba,PR,2025-07-23,Baixa,394
+54,Cliente 54,F,28,Belo Horizonte,MG,2022-09-25,Baixa,641
+55,Cliente 55,M,74,Curitiba,PR,2022-08-18,Alta,309
+56,Cliente 56,M,45,Rio de Janeiro,RJ,2025-02-05,Média,896
+57,Cliente 57,F,31,Rio de Janeiro,RJ,2022-03-23,Média,673
+58,Cliente 58,M,33,Rio de Janeiro,RJ,2024-04-12,Média,873
+59,Cliente 59,F,68,Rio de Janeiro,RJ,2023-01-03,Média,325
+60,Cliente 60,F,73,Curitiba,PR,2022-08-10,Média,463
+61,Cliente 61,F,37,Campinas,SP,2024-07-31,Baixa,504
+62,Cliente 62,F,35,Rio de Janeiro,RJ,2024-03-27,Baixa,497
+63,Cliente 63,F,19,Campinas,SP,2024-03-29,Média,821
+64,Cliente 64,M,24,Campinas,SP,2023-06-28,Baixa,894
+65,Cliente 65,M,42,Porto Alegre,RS,2024-06-12,Média,621
+66,Cliente 66,M,51,Porto Alegre,RS,2024-06-12,Média,345
+67,Cliente 67,F,57,Porto Alegre,RS,2022-05-24,Média,741
+68,Cliente 68,F,60,Belo Horizonte,MG,2024-11-04,Alta,607
+69,Cliente 69,M,30,Curitiba,PR,2025-02-09,Média,602
+70,Cliente 70,F,43,Curitiba,PR,2025-06-14,Alta,478
+71,Cliente 71,F,68,Porto Alegre,RS,2023-03-07,Média,593
+72,Cliente 72,M,50,Porto Alegre,RS,2024-06-24,Média,752
+73,Cliente 73,F,23,Curitiba,PR,2023-08-05,Alta,386
+74,Cliente 74,M,20,Rio de Janeiro,RJ,2022-10-29,Baixa,503
+75,Cliente 75,F,74,Rio de Janeiro,RJ,2024-07-21,Alta,374
+76,Cliente 76,F,33,Porto Alegre,RS,2024-10-09,Alta,693
+77,Cliente 77,M,69,Rio de Janeiro,RJ,2023-03-25,Baixa,735
+78,Cliente 78,M,47,Porto Alegre,RS,2023-05-26,Baixa,870
+79,Cliente 79,F,66,Rio de Janeiro,RJ,2025-02-18,Alta,843
+80,Cliente 80,F,46,Curitiba,PR,2022-11-22,Alta,756
+81,Cliente 81,F,58,Belo Horizonte,MG,2024-12-03,Alta,583
+82,Cliente 82,M,35,Rio de Janeiro,RJ,2023-08-09,Média,379
+83,Cliente 83,M,32,Belo Horizonte,MG,2022-10-11,Alta,382
+84,Cliente 84,F,44,Curitiba,PR,2022-05-12,Alta,519
+85,Cliente 85,F,42,Belo Horizonte,MG,2023-02-28,Média,363
+86,Cliente 86,M,40,Porto Alegre,RS,2024-09-03,Alta,689
+87,Cliente 87,M,49,Belo Horizonte,MG,2025-01-23,Média,851
+88,Cliente 88,F,39,Rio de Janeiro,RJ,2022-03-01,Média,797
+89,Cliente 89,M,43,Curitiba,PR,2025-06-28,Média,430
+90,Cliente 90,F,29,Porto Alegre,RS,2022-10-05,Baixa,738
+91,Cliente 91,F,38,Campinas,SP,2023-03-10,Média,635
+92,Cliente 92,M,48,Belo Horizonte,MG,2023-06-01,Média,731
+93,Cliente 93,M,67,São Paulo,SP,2025-08-24,Média,529
+94,Cliente 94,M,33,São Paulo,SP,2022-02-11,Baixa,504
+95,Cliente 95,M,47,Rio de Janeiro,RJ,2025-03-01,Alta,417
+96,Cliente 96,M,67,Belo Horizonte,MG,2025-05-28,Baixa,920
+97,Cliente 97,F,54,Rio de Janeiro,RJ,2022-02-22,Baixa,892
+98,Cliente 98,M,24,Curitiba,PR,2022-06-05,Alta,503
+99,Cliente 99,F,60,Belo Horizonte,MG,2023-12-13,Alta,342
+100,Cliente 100,F,70,Belo Horizonte,MG,2022-01-26,Alta,649
+101,Cliente 101,F,63,Curitiba,PR,2025-07-25,Média,670
+102,Cliente 102,F,57,Rio de Janeiro,RJ,2025-08-25,Baixa,834
+103,Cliente 103,F,38,Porto Alegre,RS,2025-04-28,Média,746
+104,Cliente 104,F,54,Rio de Janeiro,RJ,2023-05-15,Média,761
+105,Cliente 105,F,29,Porto Alegre,RS,2024-10-09,Média,329
+106,Cliente 106,F,74,Curitiba,PR,2023-11-29,Média,564
+107,Cliente 107,M,23,Porto Alegre,RS,2024-11-24,Alta,310
+108,Cliente 108,F,59,Rio de Janeiro,RJ,2023-05-08,Média,868
+109,Cliente 109,M,43,Curitiba,PR,2023-08-26,Baixa,395
+110,Cliente 110,F,53,Rio de Janeiro,RJ,2024-01-26,Alta,895
+111,Cliente 111,F,62,Porto Alegre,RS,2023-11-09,Média,863
+112,Cliente 112,M,64,Curitiba,PR,2023-04-18,Média,557
+113,Cliente 113,M,31,Rio de Janeiro,RJ,2023-01-15,Baixa,848
+114,Cliente 114,F,24,Curitiba,PR,2024-12-10,Alta,903
+115,Cliente 115,F,18,Rio de Janeiro,RJ,2023-01-03,Baixa,669
+116,Cliente 116,F,62,Porto Alegre,RS,2022-04-22,Média,346
+117,Cliente 117,F,48,Rio de Janeiro,RJ,2025-03-21,Baixa,312
+118,Cliente 118,F,73,Curitiba,PR,2022-04-16,Média,488
+119,Cliente 119,M,54,Curitiba,PR,2024-10-04,Baixa,710
+120,Cliente 120,M,33,São Paulo,SP,2023-09-15,Baixa,876
+121,Cliente 121,M,67,Campinas,SP,2025-06-20,Alta,910
+122,Cliente 122,F,37,Porto Alegre,RS,2023-09-01,Média,753
+123,Cliente 123,M,34,Porto Alegre,RS,2023-03-02,Alta,401
+124,Cliente 124,M,28,São Paulo,SP,2025-02-04,Baixa,477
+125,Cliente 125,F,20,Campinas,SP,2024-08-20,Média,908
+126,Cliente 126,M,61,Rio de Janeiro,RJ,2024-07-18,Alta,589
+127,Cliente 127,M,45,Rio de Janeiro,RJ,2025-09-16,Alta,903
+128,Cliente 128,M,22,São Paulo,SP,2023-06-29,Alta,452
+129,Cliente 129,F,46,São Paulo,SP,2025-03-11,Média,909
+130,Cliente 130,F,50,Campinas,SP,2024-04-04,Alta,611
+131,Cliente 131,M,74,Porto Alegre,RS,2025-05-09,Média,382
+132,Cliente 132,M,32,Curitiba,PR,2022-02-22,Alta,556
+133,Cliente 133,M,66,Porto Alegre,RS,2025-03-26,Alta,575
+134,Cliente 134,M,55,Rio de Janeiro,RJ,2023-07-24,Alta,752
+135,Cliente 135,F,39,Curitiba,PR,2023-12-14,Baixa,781
+136,Cliente 136,F,36,Belo Horizonte,MG,2024-04-23,Baixa,637
+137,Cliente 137,F,38,Curitiba,PR,2023-10-07,Média,390
+138,Cliente 138,F,44,Campinas,SP,2025-09-08,Alta,301
+139,Cliente 139,F,58,São Paulo,SP,2025-06-29,Alta,670
+140,Cliente 140,M,36,Curitiba,PR,2025-01-29,Baixa,573
+141,Cliente 141,M,63,Curitiba,PR,2025-07-14,Baixa,329
+142,Cliente 142,F,23,Rio de Janeiro,RJ,2025-02-05,Alta,314
+143,Cliente 143,M,49,Rio de Janeiro,RJ,2025-08-19,Média,420
+144,Cliente 144,M,47,Belo Horizonte,MG,2024-08-25,Média,794
+145,Cliente 145,M,73,Porto Alegre,RS,2025-05-12,Média,495
+146,Cliente 146,F,70,Campinas,SP,2024-11-05,Média,648
+147,Cliente 147,F,73,Campinas,SP,2025-04-17,Alta,605
+148,Cliente 148,F,53,Rio de Janeiro,RJ,2023-12-08,Alta,795
+149,Cliente 149,M,54,Porto Alegre,RS,2023-01-22,Média,629
+150,Cliente 150,F,63,Curitiba,PR,2023-10-14,Média,344
+151,Cliente 151,M,26,Curitiba,PR,2024-10-11,Alta,455
+152,Cliente 152,F,18,Porto Alegre,RS,2022-07-24,Baixa,750
+153,Cliente 153,F,68,Rio de Janeiro,RJ,2022-06-03,Alta,458
+154,Cliente 154,M,72,Belo Horizonte,MG,2025-08-23,Alta,707
+155,Cliente 155,M,57,Belo Horizonte,MG,2024-09-26,Média,941
+156,Cliente 156,M,45,São Paulo,SP,2023-04-11,Alta,594
+157,Cliente 157,M,20,São Paulo,SP,2023-09-06,Média,470
+158,Cliente 158,F,27,Belo Horizonte,MG,2024-02-07,Média,667
+159,Cliente 159,M,23,Rio de Janeiro,RJ,2022-12-15,Alta,484
+160,Cliente 160,M,32,Porto Alegre,RS,2024-10-16,Alta,546
+161,Cliente 161,M,75,Curitiba,PR,2025-09-27,Média,561
+162,Cliente 162,M,46,Curitiba,PR,2022-11-20,Alta,859
+163,Cliente 163,F,72,Belo Horizonte,MG,2023-05-28,Alta,734
+164,Cliente 164,M,42,Belo Horizonte,MG,2022-08-07,Média,794
+165,Cliente 165,M,71,Porto Alegre,RS,2023-08-28,Alta,602
+166,Cliente 166,F,71,Curitiba,PR,2022-04-11,Baixa,879
+167,Cliente 167,M,57,Belo Horizonte,MG,2023-03-25,Alta,660
+168,Cliente 168,M,37,Belo Horizonte,MG,2025-07-09,Alta,399
+169,Cliente 169,M,36,Curitiba,PR,2022-09-27,Alta,673
+170,Cliente 170,F,51,Belo Horizonte,MG,2022-09-28,Baixa,505
+171,Cliente 171,F,65,Porto Alegre,RS,2024-09-13,Baixa,563
+172,Cliente 172,M,73,Belo Horizonte,MG,2022-10-16,Média,377
+173,Cliente 173,F,52,Curitiba,PR,2022-01-29,Baixa,704
+174,Cliente 174,F,70,Campinas,SP,2025-04-12,Média,568
+175,Cliente 175,M,57,Belo Horizonte,MG,2024-08-23,Alta,539
+176,Cliente 176,M,58,Porto Alegre,RS,2025-08-19,Alta,526
+177,Cliente 177,M,20,Curitiba,PR,2022-08-27,Alta,718
+178,Cliente 178,M,74,Campinas,SP,2022-07-19,Média,418
+179,Cliente 179,F,55,Porto Alegre,RS,2024-01-30,Média,764
+180,Cliente 180,F,35,Rio de Janeiro,RJ,2024-09-29,Alta,401
+181,Cliente 181,M,72,Campinas,SP,2024-06-29,Baixa,754
+182,Cliente 182,F,21,Belo Horizonte,MG,2025-01-20,Alta,676
+183,Cliente 183,M,60,Curitiba,PR,2024-07-20,Baixa,425
+184,Cliente 184,M,68,Rio de Janeiro,RJ,2023-05-14,Baixa,641
+185,Cliente 185,M,70,Porto Alegre,RS,2023-03-01,Baixa,867
+186,Cliente 186,F,72,Rio de Janeiro,RJ,2022-01-06,Baixa,910
+187,Cliente 187,M,60,Rio de Janeiro,RJ,2022-12-24,Alta,556
+188,Cliente 188,F,19,São Paulo,SP,2023-05-03,Baixa,666
+189,Cliente 189,M,65,Rio de Janeiro,RJ,2024-05-12,Baixa,429
+190,Cliente 190,M,46,Campinas,SP,2024-11-17,Média,670
+191,Cliente 191,F,47,Porto Alegre,RS,2025-09-11,Alta,344
+192,Cliente 192,M,49,São Paulo,SP,2024-05-23,Média,711
+193,Cliente 193,M,22,Curitiba,PR,2025-05-30,Baixa,629
+194,Cliente 194,F,42,Rio de Janeiro,RJ,2025-04-13,Alta,948
+195,Cliente 195,F,24,Porto Alegre,RS,2025-05-24,Média,817
+196,Cliente 196,F,39,São Paulo,SP,2023-04-13,Média,762
+197,Cliente 197,F,38,Curitiba,PR,2023-10-03,Média,397
+198,Cliente 198,M,71,Belo Horizonte,MG,2022-05-18,Baixa,785
+199,Cliente 199,M,53,São Paulo,SP,2024-02-03,Média,398
+200,Cliente 200,F,73,Campinas,SP,2024-04-21,Alta,425
+201,Cliente 201,F,24,Curitiba,PR,2023-10-02,Média,914
+202,Cliente 202,M,40,Porto Alegre,RS,2023-04-05,Baixa,793
+203,Cliente 203,M,69,Porto Alegre,RS,2025-03-21,Baixa,585
+204,Cliente 204,M,35,Curitiba,PR,2022-03-01,Alta,573
+205,Cliente 205,M,54,Belo Horizonte,MG,2023-01-07,Média,306
+206,Cliente 206,M,65,Curitiba,PR,2022-03-04,Baixa,948
+207,Cliente 207,F,28,Porto Alegre,RS,2024-07-18,Média,729
+208,Cliente 208,M,74,Belo Horizonte,MG,2025-03-08,Alta,632
+209,Cliente 209,M,35,São Paulo,SP,2022-04-12,Baixa,932
+210,Cliente 210,F,35,Curitiba,PR,2024-06-24,Média,921
+211,Cliente 211,F,61,Rio de Janeiro,RJ,2022-08-16,Média,740
+212,Cliente 212,M,43,Porto Alegre,RS,2022-04-04,Alta,615
+213,Cliente 213,M,67,Porto Alegre,RS,2023-09-10,Baixa,509
+214,Cliente 214,M,49,Rio de Janeiro,RJ,2022-09-03,Média,635
+215,Cliente 215,M,50,Curitiba,PR,2024-12-26,Baixa,689
+216,Cliente 216,F,19,Porto Alegre,RS,2022-03-28,Baixa,706
+217,Cliente 217,F,63,Curitiba,PR,2024-05-29,Média,889
+218,Cliente 218,F,28,Curitiba,PR,2022-02-12,Baixa,714
+219,Cliente 219,F,72,Porto Alegre,RS,2022-06-30,Alta,670
+220,Cliente 220,M,43,São Paulo,SP,2024-03-31,Média,903
+221,Cliente 221,M,50,Belo Horizonte,MG,2022-12-11,Baixa,641
+222,Cliente 222,M,33,São Paulo,SP,2025-08-14,Média,659
+223,Cliente 223,M,66,São Paulo,SP,2022-12-22,Média,502
+224,Cliente 224,F,61,São Paulo,SP,2024-08-08,Alta,805
+225,Cliente 225,F,22,Porto Alegre,RS,2022-11-06,Alta,623
+226,Cliente 226,M,40,Curitiba,PR,2023-07-17,Alta,610
+227,Cliente 227,M,21,Porto Alegre,RS,2024-07-14,Média,772
+228,Cliente 228,F,47,Belo Horizonte,MG,2025-06-13,Baixa,392
+229,Cliente 229,M,38,Porto Alegre,RS,2025-08-27,Média,885
+230,Cliente 230,F,24,Porto Alegre,RS,2022-05-07,Alta,454
+231,Cliente 231,M,63,Belo Horizonte,MG,2022-03-22,Alta,476
+232,Cliente 232,M,41,Curitiba,PR,2025-06-02,Alta,835
+233,Cliente 233,M,68,Belo Horizonte,MG,2023-11-24,Média,718
+234,Cliente 234,F,36,Belo Horizonte,MG,2025-02-16,Média,396
+235,Cliente 235,M,40,Belo Horizonte,MG,2025-04-08,Média,383
+236,Cliente 236,F,53,Belo Horizonte,MG,2022-06-23,Baixa,909
+237,Cliente 237,F,50,Curitiba,PR,2022-07-11,Baixa,839
+238,Cliente 238,M,39,Belo Horizonte,MG,2023-01-05,Média,616
+239,Cliente 239,M,36,Curitiba,PR,2022-11-14,Baixa,440
+240,Cliente 240,M,56,São Paulo,SP,2025-06-19,Alta,644
+241,Cliente 241,M,64,Curitiba,PR,2025-07-03,Baixa,485
+242,Cliente 242,M,46,Curitiba,PR,2025-10-17,Média,673
+243,Cliente 243,M,37,Porto Alegre,RS,2023-04-25,Alta,759
+244,Cliente 244,F,67,Curitiba,PR,2024-06-21,Média,884
+245,Cliente 245,M,70,Belo Horizonte,MG,2024-05-07,Alta,840
+246,Cliente 246,F,73,Rio de Janeiro,RJ,2025-08-06,Média,353
+247,Cliente 247,F,23,Belo Horizonte,MG,2022-09-13,Alta,828
+248,Cliente 248,F,23,Rio de Janeiro,RJ,2022-10-29,Média,825
+249,Cliente 249,M,43,Rio de Janeiro,RJ,2024-04-29,Média,327
+250,Cliente 250,F,32,Porto Alegre,RS,2022-06-17,Baixa,695
+251,Cliente 251,M,20,Campinas,SP,2022-10-27,Baixa,643
+252,Cliente 252,F,57,Belo Horizonte,MG,2024-08-18,Alta,442
+253,Cliente 253,M,53,São Paulo,SP,2023-03-18,Baixa,562
+254,Cliente 254,F,25,Porto Alegre,RS,2023-05-02,Baixa,595
+255,Cliente 255,M,25,São Paulo,SP,2024-07-25,Média,937
+256,Cliente 256,M,63,Curitiba,PR,2025-03-23,Alta,827
+257,Cliente 257,F,33,Rio de Janeiro,RJ,2025-06-13,Média,301
+258,Cliente 258,F,22,Porto Alegre,RS,2024-12-08,Baixa,387
+259,Cliente 259,F,41,Porto Alegre,RS,2022-03-31,Média,781
+260,Cliente 260,M,64,Belo Horizonte,MG,2023-12-08,Média,369
+261,Cliente 261,F,70,Campinas,SP,2023-12-23,Baixa,345
+262,Cliente 262,M,69,Rio de Janeiro,RJ,2025-07-17,Alta,790
+263,Cliente 263,F,30,Rio de Janeiro,RJ,2022-03-17,Alta,768
+264,Cliente 264,F,70,São Paulo,SP,2023-09-28,Baixa,623
+265,Cliente 265,M,36,Porto Alegre,RS,2025-08-17,Média,337
+266,Cliente 266,M,69,Belo Horizonte,MG,2023-07-14,Alta,639
+267,Cliente 267,F,29,Belo Horizonte,MG,2024-03-02,Média,750
+268,Cliente 268,M,64,Curitiba,PR,2023-07-01,Média,831
+269,Cliente 269,F,38,Curitiba,PR,2023-01-05,Média,916
+270,Cliente 270,F,56,São Paulo,SP,2023-09-20,Média,602
+271,Cliente 271,F,20,Curitiba,PR,2023-12-21,Alta,754
+272,Cliente 272,F,41,Belo Horizonte,MG,2022-06-03,Média,358
+273,Cliente 273,F,20,Porto Alegre,RS,2025-05-29,Baixa,446
+274,Cliente 274,F,54,Rio de Janeiro,RJ,2024-01-12,Baixa,675
+275,Cliente 275,F,46,São Paulo,SP,2024-01-30,Alta,760
+276,Cliente 276,F,59,São Paulo,SP,2024-03-26,Alta,675
+277,Cliente 277,F,51,Belo Horizonte,MG,2023-01-17,Baixa,326
+278,Cliente 278,M,57,Curitiba,PR,2024-07-02,Média,566
+279,Cliente 279,M,46,Belo Horizonte,MG,2022-10-05,Baixa,425
+280,Cliente 280,F,63,Rio de Janeiro,RJ,2025-09-29,Baixa,627
+281,Cliente 281,M,68,Campinas,SP,2025-07-30,Média,461
+282,Cliente 282,M,68,Belo Horizonte,MG,2022-10-12,Baixa,505
+283,Cliente 283,F,47,Curitiba,PR,2025-03-18,Média,867
+284,Cliente 284,F,43,Porto Alegre,RS,2022-05-15,Alta,388
+285,Cliente 285,M,38,Curitiba,PR,2022-06-01,Média,888
+286,Cliente 286,M,74,Campinas,SP,2023-12-07,Média,829
+287,Cliente 287,M,71,Porto Alegre,RS,2024-10-26,Baixa,743
+288,Cliente 288,F,63,São Paulo,SP,2022-11-28,Média,468
+289,Cliente 289,F,30,Rio de Janeiro,RJ,2022-06-11,Alta,590
+290,Cliente 290,M,50,Porto Alegre,RS,2023-09-13,Baixa,940
+291,Cliente 291,F,71,Rio de Janeiro,RJ,2025-05-24,Baixa,939
+292,Cliente 292,F,59,Porto Alegre,RS,2022-04-04,Baixa,383
+293,Cliente 293,F,59,Rio de Janeiro,RJ,2024-10-16,Alta,331
+294,Cliente 294,F,22,Belo Horizonte,MG,2023-09-02,Baixa,715
+295,Cliente 295,F,31,São Paulo,SP,2024-09-18,Média,725
+296,Cliente 296,F,26,Belo Horizonte,MG,2023-12-09,Média,626
+297,Cliente 297,M,35,Belo Horizonte,MG,2024-08-13,Média,547
+298,Cliente 298,F,42,Curitiba,PR,2022-04-14,Baixa,399
+299,Cliente 299,F,30,Porto Alegre,RS,2023-11-02,Baixa,463
+300,Cliente 300,F,49,Rio de Janeiro,RJ,2024-10-18,Alta,778
+301,Cliente 301,M,31,São Paulo,SP,2024-07-25,Média,817
+302,Cliente 302,F,56,Porto Alegre,RS,2023-07-31,Baixa,351
+303,Cliente 303,F,26,Curitiba,PR,2022-08-09,Alta,308
+304,Cliente 304,F,21,Belo Horizonte,MG,2022-04-03,Média,674
+305,Cliente 305,M,42,Porto Alegre,RS,2023-08-15,Média,866
+306,Cliente 306,M,26,Porto Alegre,RS,2025-06-30,Alta,586
+307,Cliente 307,F,66,Campinas,SP,2025-02-16,Média,647
+308,Cliente 308,M,20,Rio de Janeiro,RJ,2024-04-02,Alta,821
+309,Cliente 309,F,27,São Paulo,SP,2024-08-28,Alta,641
+310,Cliente 310,M,43,Porto Alegre,RS,2023-10-15,Média,927
+311,Cliente 311,F,63,Porto Alegre,RS,2024-11-04,Alta,644
+312,Cliente 312,F,61,Porto Alegre,RS,2024-01-25,Média,317
+313,Cliente 313,M,56,Campinas,SP,2025-07-12,Alta,615
+314,Cliente 314,M,64,Curitiba,PR,2025-03-28,Alta,892
+315,Cliente 315,F,27,Campinas,SP,2025-07-12,Baixa,836
+316,Cliente 316,M,46,Rio de Janeiro,RJ,2023-01-26,Alta,412
+317,Cliente 317,F,50,Belo Horizonte,MG,2023-02-22,Baixa,722
+318,Cliente 318,M,53,Porto Alegre,RS,2022-10-10,Alta,363
+319,Cliente 319,M,47,Belo Horizonte,MG,2023-10-05,Alta,685
+320,Cliente 320,F,57,Porto Alegre,RS,2025-10-16,Alta,662
+321,Cliente 321,F,32,Curitiba,PR,2025-02-16,Baixa,585
+322,Cliente 322,F,48,Belo Horizonte,MG,2024-09-28,Alta,512
+323,Cliente 323,F,75,Belo Horizonte,MG,2025-03-20,Média,424
+324,Cliente 324,F,63,Curitiba,PR,2022-03-28,Baixa,597
+325,Cliente 325,M,30,Campinas,SP,2024-09-08,Média,562
+326,Cliente 326,M,57,Porto Alegre,RS,2022-10-09,Alta,578
+327,Cliente 327,M,58,Porto Alegre,RS,2025-10-03,Baixa,351
+328,Cliente 328,F,24,Rio de Janeiro,RJ,2023-11-08,Baixa,723
+329,Cliente 329,F,48,Rio de Janeiro,RJ,2024-04-13,Alta,461
+330,Cliente 330,M,67,Rio de Janeiro,RJ,2025-08-15,Média,592
+331,Cliente 331,F,74,São Paulo,SP,2022-12-25,Alta,338
+332,Cliente 332,F,74,Rio de Janeiro,RJ,2023-01-17,Média,807
+333,Cliente 333,M,39,São Paulo,SP,2025-05-19,Média,881
+334,Cliente 334,F,74,Belo Horizonte,MG,2024-12-09,Alta,856
+335,Cliente 335,F,28,Rio de Janeiro,RJ,2022-08-19,Média,497
+336,Cliente 336,F,68,Curitiba,PR,2022-01-29,Alta,490
+337,Cliente 337,F,70,Belo Horizonte,MG,2025-08-01,Baixa,925
+338,Cliente 338,M,29,Curitiba,PR,2025-10-02,Baixa,710
+339,Cliente 339,F,42,Rio de Janeiro,RJ,2022-01-14,Média,554
+340,Cliente 340,M,34,Rio de Janeiro,RJ,2023-09-11,Média,637
+341,Cliente 341,F,28,Belo Horizonte,MG,2024-08-11,Baixa,421
+342,Cliente 342,F,41,Curitiba,PR,2025-08-01,Alta,420
+343,Cliente 343,M,47,Porto Alegre,RS,2024-09-06,Baixa,436
+344,Cliente 344,M,66,Porto Alegre,RS,2024-08-22,Média,862
+345,Cliente 345,F,22,Rio de Janeiro,RJ,2024-12-17,Alta,757
+346,Cliente 346,M,54,Porto Alegre,RS,2024-11-01,Baixa,860
+347,Cliente 347,F,25,Porto Alegre,RS,2024-12-01,Baixa,635
+348,Cliente 348,M,47,Rio de Janeiro,RJ,2024-07-01,Baixa,822
+349,Cliente 349,F,61,Rio de Janeiro,RJ,2022-04-29,Média,877
+350,Cliente 350,M,55,Belo Horizonte,MG,2022-01-07,Média,560
+351,Cliente 351,M,75,São Paulo,SP,2022-05-11,Média,652
+352,Cliente 352,M,67,Campinas,SP,2024-04-17,Baixa,593
+353,Cliente 353,F,42,Rio de Janeiro,RJ,2024-07-07,Média,691
+354,Cliente 354,M,52,São Paulo,SP,2022-08-31,Alta,656
+355,Cliente 355,M,37,Curitiba,PR,2022-01-08,Alta,528
+356,Cliente 356,M,47,Curitiba,PR,2023-04-16,Alta,688
+357,Cliente 357,M,69,Belo Horizonte,MG,2022-08-20,Média,493
+358,Cliente 358,M,56,Curitiba,PR,2022-05-18,Baixa,511
+359,Cliente 359,M,43,Campinas,SP,2023-05-17,Alta,349
+360,Cliente 360,M,50,Curitiba,PR,2022-04-26,Alta,522
+361,Cliente 361,F,33,Belo Horizonte,MG,2023-10-16,Alta,889
+362,Cliente 362,F,37,Belo Horizonte,MG,2023-03-29,Alta,833
+363,Cliente 363,F,53,Belo Horizonte,MG,2022-12-25,Alta,905
+364,Cliente 364,F,62,Curitiba,PR,2024-12-10,Média,690
+365,Cliente 365,M,66,Curitiba,PR,2024-02-10,Baixa,607
+366,Cliente 366,M,69,Porto Alegre,RS,2023-09-08,Baixa,530
+367,Cliente 367,M,42,Curitiba,PR,2024-05-03,Alta,722
+368,Cliente 368,M,46,Rio de Janeiro,RJ,2025-08-17,Baixa,638
+369,Cliente 369,F,42,Belo Horizonte,MG,2022-04-16,Alta,495
+370,Cliente 370,M,48,Porto Alegre,RS,2025-04-18,Baixa,492
+371,Cliente 371,M,65,Rio de Janeiro,RJ,2023-03-10,Média,315
+372,Cliente 372,F,33,Campinas,SP,2023-02-23,Baixa,918
+373,Cliente 373,F,37,Porto Alegre,RS,2024-08-12,Média,689
+374,Cliente 374,M,69,Belo Horizonte,MG,2024-08-12,Alta,809
+375,Cliente 375,F,20,Curitiba,PR,2023-10-03,Baixa,679
+376,Cliente 376,F,53,Porto Alegre,RS,2022-02-03,Alta,449
+377,Cliente 377,F,32,Porto Alegre,RS,2023-02-06,Média,456
+378,Cliente 378,F,34,Curitiba,PR,2025-09-02,Média,863
+379,Cliente 379,M,26,Curitiba,PR,2023-12-23,Média,472
+380,Cliente 380,M,51,Porto Alegre,RS,2025-08-07,Baixa,855
+381,Cliente 381,F,26,São Paulo,SP,2022-01-14,Alta,349
+382,Cliente 382,M,50,Rio de Janeiro,RJ,2022-01-19,Alta,454
+383,Cliente 383,F,60,Curitiba,PR,2025-07-30,Baixa,932
+384,Cliente 384,F,18,Curitiba,PR,2025-02-03,Baixa,844
+385,Cliente 385,F,69,Campinas,SP,2022-02-05,Alta,593
+386,Cliente 386,M,30,Rio de Janeiro,RJ,2022-11-01,Baixa,836
+387,Cliente 387,M,41,Porto Alegre,RS,2024-03-23,Média,573
+388,Cliente 388,F,61,Curitiba,PR,2023-04-08,Alta,549
+389,Cliente 389,F,53,São Paulo,SP,2024-02-16,Baixa,715
+390,Cliente 390,M,49,Curitiba,PR,2022-12-17,Alta,309
+391,Cliente 391,M,32,Curitiba,PR,2024-12-17,Alta,397
+392,Cliente 392,F,75,Rio de Janeiro,RJ,2022-06-02,Média,347
+393,Cliente 393,M,55,Porto Alegre,RS,2022-02-02,Baixa,622
+394,Cliente 394,M,54,Rio de Janeiro,RJ,2022-11-29,Baixa,606
+395,Cliente 395,F,21,Curitiba,PR,2022-06-10,Média,443
+396,Cliente 396,F,67,Campinas,SP,2023-11-29,Baixa,377
+397,Cliente 397,F,32,Belo Horizonte,MG,2024-07-11,Alta,579
+398,Cliente 398,F,23,Belo Horizonte,MG,2025-10-24,Média,490
+399,Cliente 399,F,27,Porto Alegre,RS,2022-06-18,Baixa,375
+400,Cliente 400,F,24,Curitiba,PR,2023-10-11,Alta,698
+401,Cliente 401,F,24,São Paulo,SP,2024-01-08,Média,755
+402,Cliente 402,F,24,Rio de Janeiro,RJ,2024-07-08,Baixa,741
+403,Cliente 403,F,73,São Paulo,SP,2022-07-10,Média,867
+404,Cliente 404,M,64,Curitiba,PR,2024-03-05,Média,723
+405,Cliente 405,F,28,Porto Alegre,RS,2022-12-14,Alta,833
+406,Cliente 406,M,22,Rio de Janeiro,RJ,2024-10-06,Média,574
+407,Cliente 407,F,68,Rio de Janeiro,RJ,2023-09-06,Média,731
+408,Cliente 408,F,56,Campinas,SP,2025-07-04,Média,552
+409,Cliente 409,F,18,Porto Alegre,RS,2022-10-05,Média,409
+410,Cliente 410,F,39,Curitiba,PR,2023-11-06,Alta,689
+411,Cliente 411,M,48,Curitiba,PR,2025-05-20,Média,628
+412,Cliente 412,F,54,Belo Horizonte,MG,2023-08-20,Média,626
+413,Cliente 413,F,25,Rio de Janeiro,RJ,2024-03-15,Média,587
+414,Cliente 414,M,64,Porto Alegre,RS,2023-01-04,Alta,858
+415,Cliente 415,F,61,Curitiba,PR,2022-05-22,Média,598
+416,Cliente 416,F,60,Curitiba,PR,2023-05-11,Alta,610
+417,Cliente 417,F,55,Rio de Janeiro,RJ,2024-07-08,Média,375
+418,Cliente 418,M,24,Curitiba,PR,2024-01-07,Alta,337
+419,Cliente 419,F,66,Rio de Janeiro,RJ,2022-04-01,Baixa,927
+420,Cliente 420,F,32,Belo Horizonte,MG,2022-07-21,Baixa,310
+421,Cliente 421,F,67,Porto Alegre,RS,2024-03-12,Média,683
+422,Cliente 422,M,36,Porto Alegre,RS,2024-09-15,Média,325
+423,Cliente 423,F,39,Curitiba,PR,2023-12-15,Baixa,445
+424,Cliente 424,F,24,Curitiba,PR,2023-12-15,Alta,794
+425,Cliente 425,M,69,Curitiba,PR,2023-09-07,Média,368
+426,Cliente 426,M,65,São Paulo,SP,2025-10-18,Média,411
+427,Cliente 427,F,47,Rio de Janeiro,RJ,2023-11-09,Alta,463
+428,Cliente 428,F,43,Rio de Janeiro,RJ,2023-01-17,Alta,488
+429,Cliente 429,F,18,São Paulo,SP,2024-05-29,Média,906
+430,Cliente 430,M,69,Rio de Janeiro,RJ,2025-03-28,Média,364
+431,Cliente 431,F,25,Porto Alegre,RS,2023-02-08,Média,633
+432,Cliente 432,F,57,Belo Horizonte,MG,2025-05-07,Alta,620
+433,Cliente 433,M,70,Curitiba,PR,2024-07-26,Média,660
+434,Cliente 434,M,33,Belo Horizonte,MG,2023-10-04,Alta,437
+435,Cliente 435,F,44,Belo Horizonte,MG,2022-10-17,Baixa,682
+436,Cliente 436,M,49,Porto Alegre,RS,2024-05-16,Alta,692
+437,Cliente 437,F,26,Porto Alegre,RS,2024-09-29,Alta,470
+438,Cliente 438,F,18,Rio de Janeiro,RJ,2022-04-20,Média,934
+439,Cliente 439,F,44,Curitiba,PR,2025-02-24,Baixa,693
+440,Cliente 440,M,23,Curitiba,PR,2024-09-27,Alta,754
+441,Cliente 441,F,32,Porto Alegre,RS,2022-03-08,Baixa,599
+442,Cliente 442,F,53,Porto Alegre,RS,2025-03-04,Baixa,768
+443,Cliente 443,F,52,Porto Alegre,RS,2023-07-03,Alta,416
+444,Cliente 444,M,65,Campinas,SP,2024-05-20,Alta,523
+445,Cliente 445,F,73,Rio de Janeiro,RJ,2023-06-23,Baixa,760
+446,Cliente 446,F,73,Campinas,SP,2023-03-06,Baixa,542
+447,Cliente 447,M,70,Porto Alegre,RS,2022-10-13,Baixa,930
+448,Cliente 448,F,56,Rio de Janeiro,RJ,2024-12-26,Alta,659
+449,Cliente 449,F,72,Porto Alegre,RS,2023-08-16,Média,599
+450,Cliente 450,F,73,Porto Alegre,RS,2022-05-02,Baixa,721
+451,Cliente 451,M,66,Rio de Janeiro,RJ,2023-10-22,Baixa,449
+452,Cliente 452,F,58,Curitiba,PR,2025-07-19,Baixa,891
+453,Cliente 453,M,43,Curitiba,PR,2025-07-21,Média,377
+454,Cliente 454,F,38,Porto Alegre,RS,2024-07-20,Alta,677
+455,Cliente 455,F,72,Porto Alegre,RS,2024-07-27,Alta,395
+456,Cliente 456,F,35,Campinas,SP,2023-03-10,Baixa,739
+457,Cliente 457,M,54,Belo Horizonte,MG,2025-03-29,Média,860
+458,Cliente 458,M,58,Curitiba,PR,2022-04-05,Alta,349
+459,Cliente 459,F,18,Curitiba,PR,2024-06-22,Baixa,461
+460,Cliente 460,F,28,Curitiba,PR,2025-08-24,Alta,435
+461,Cliente 461,M,41,Belo Horizonte,MG,2023-05-28,Alta,669
+462,Cliente 462,M,45,Rio de Janeiro,RJ,2023-09-18,Média,940
+463,Cliente 463,M,26,São Paulo,SP,2024-09-03,Baixa,518
+464,Cliente 464,M,62,Porto Alegre,RS,2022-01-20,Alta,755
+465,Cliente 465,M,32,Belo Horizonte,MG,2024-09-05,Média,435
+466,Cliente 466,F,41,Curitiba,PR,2022-07-31,Alta,404
+467,Cliente 467,M,22,Belo Horizonte,MG,2025-08-06,Média,436
+468,Cliente 468,F,64,Porto Alegre,RS,2024-06-20,Alta,468
+469,Cliente 469,M,23,Rio de Janeiro,RJ,2024-06-25,Média,930
+470,Cliente 470,F,45,São Paulo,SP,2024-02-26,Baixa,903
+471,Cliente 471,M,33,Belo Horizonte,MG,2025-08-13,Baixa,583
+472,Cliente 472,F,31,Porto Alegre,RS,2025-09-10,Alta,327
+473,Cliente 473,M,68,Porto Alegre,RS,2023-08-29,Alta,701
+474,Cliente 474,F,58,Rio de Janeiro,RJ,2023-05-09,Média,415
+475,Cliente 475,F,26,Porto Alegre,RS,2024-01-10,Alta,312
+476,Cliente 476,M,66,Curitiba,PR,2025-10-30,Média,859
+477,Cliente 477,M,34,Curitiba,PR,2022-05-19,Baixa,901
+478,Cliente 478,F,58,Rio de Janeiro,RJ,2024-11-03,Baixa,707
+479,Cliente 479,M,35,Porto Alegre,RS,2022-06-18,Média,711
+480,Cliente 480,M,52,Campinas,SP,2023-02-21,Baixa,823
+481,Cliente 481,M,37,Belo Horizonte,MG,2025-08-23,Alta,949
+482,Cliente 482,F,25,Curitiba,PR,2022-06-26,Baixa,550
+483,Cliente 483,M,63,Curitiba,PR,2022-09-02,Média,479
+484,Cliente 484,F,28,Rio de Janeiro,RJ,2023-12-12,Baixa,808
+485,Cliente 485,M,39,Belo Horizonte,MG,2022-08-30,Alta,575
+486,Cliente 486,M,49,Curitiba,PR,2023-06-23,Alta,365
+487,Cliente 487,M,41,Curitiba,PR,2025-03-06,Baixa,811
+488,Cliente 488,M,32,Rio de Janeiro,RJ,2025-10-12,Baixa,887
+489,Cliente 489,M,48,Porto Alegre,RS,2023-05-16,Baixa,312
+490,Cliente 490,F,32,Belo Horizonte,MG,2022-03-14,Baixa,483
+491,Cliente 491,M,54,Belo Horizonte,MG,2023-07-10,Média,627
+492,Cliente 492,M,69,Belo Horizonte,MG,2023-01-03,Alta,353
+493,Cliente 493,F,67,Porto Alegre,RS,2024-08-10,Média,370
+494,Cliente 494,M,41,Belo Horizonte,MG,2024-07-24,Baixa,866
+495,Cliente 495,M,47,Rio de Janeiro,RJ,2025-06-29,Alta,611
+496,Cliente 496,M,18,Belo Horizonte,MG,2023-05-18,Baixa,859
+497,Cliente 497,M,39,Curitiba,PR,2023-12-11,Baixa,854
+498,Cliente 498,M,51,Campinas,SP,2022-08-01,Alta,614
+499,Cliente 499,F,23,Rio de Janeiro,RJ,2022-10-19,Média,361
+500,Cliente 500,F,65,São Paulo,SP,2024-02-02,Alta,722
+501,Cliente 501,F,22,São Paulo,SP,2025-07-29,Alta,436
+502,Cliente 502,F,34,Porto Alegre,RS,2023-04-30,Média,433
+503,Cliente 503,F,35,Belo Horizonte,MG,2023-10-14,Alta,634
+504,Cliente 504,M,27,Rio de Janeiro,RJ,2025-04-12,Baixa,439
+505,Cliente 505,F,25,São Paulo,SP,2023-10-06,Média,777
+506,Cliente 506,F,34,Porto Alegre,RS,2023-09-24,Baixa,762
+507,Cliente 507,M,31,São Paulo,SP,2025-05-20,Baixa,611
+508,Cliente 508,F,50,Belo Horizonte,MG,2023-12-30,Baixa,554
+509,Cliente 509,F,72,Campinas,SP,2022-03-05,Média,478
+510,Cliente 510,M,25,Curitiba,PR,2022-07-28,Baixa,773
+511,Cliente 511,F,41,São Paulo,SP,2023-02-10,Baixa,433
+512,Cliente 512,M,75,Campinas,SP,2022-05-13,Baixa,322
+513,Cliente 513,M,47,Curitiba,PR,2022-09-08,Baixa,639
+514,Cliente 514,F,19,São Paulo,SP,2024-03-19,Alta,743
+515,Cliente 515,M,35,Curitiba,PR,2023-03-16,Baixa,662
+516,Cliente 516,M,59,Belo Horizonte,MG,2025-06-11,Baixa,335
+517,Cliente 517,M,23,Belo Horizonte,MG,2024-09-08,Média,863
+518,Cliente 518,M,58,Belo Horizonte,MG,2023-02-13,Baixa,729
+519,Cliente 519,F,40,Porto Alegre,RS,2024-09-09,Média,667
+520,Cliente 520,M,38,Porto Alegre,RS,2023-01-04,Média,576
+521,Cliente 521,F,51,Porto Alegre,RS,2022-04-30,Baixa,587
+522,Cliente 522,M,35,Belo Horizonte,MG,2023-05-23,Baixa,402
+523,Cliente 523,F,71,Porto Alegre,RS,2024-03-06,Baixa,889
+524,Cliente 524,F,55,Rio de Janeiro,RJ,2023-10-14,Baixa,906
+525,Cliente 525,M,71,Campinas,SP,2022-10-19,Alta,877
+526,Cliente 526,M,21,Curitiba,PR,2022-03-19,Baixa,802
+527,Cliente 527,M,39,Rio de Janeiro,RJ,2024-09-05,Baixa,839
+528,Cliente 528,F,21,Porto Alegre,RS,2022-12-30,Baixa,648
+529,Cliente 529,F,22,São Paulo,SP,2022-08-16,Alta,445
+530,Cliente 530,F,38,Belo Horizonte,MG,2023-11-21,Alta,403
+531,Cliente 531,F,59,Rio de Janeiro,RJ,2025-08-02,Alta,747
+532,Cliente 532,F,32,Belo Horizonte,MG,2025-06-10,Alta,875
+533,Cliente 533,M,29,Porto Alegre,RS,2023-08-27,Média,614
+534,Cliente 534,F,69,Campinas,SP,2023-01-08,Alta,333
+535,Cliente 535,F,27,Porto Alegre,RS,2022-08-02,Alta,879
+536,Cliente 536,M,58,Belo Horizonte,MG,2023-10-17,Baixa,655
+537,Cliente 537,M,33,Campinas,SP,2023-06-28,Média,311
+538,Cliente 538,M,42,Campinas,SP,2022-01-03,Média,410
+539,Cliente 539,F,40,Curitiba,PR,2024-10-06,Baixa,723
+540,Cliente 540,M,28,Porto Alegre,RS,2025-03-29,Baixa,790
+541,Cliente 541,F,34,Curitiba,PR,2022-02-11,Baixa,601
+542,Cliente 542,M,64,São Paulo,SP,2024-02-08,Média,474
+543,Cliente 543,F,63,São Paulo,SP,2025-06-10,Média,908
+544,Cliente 544,F,28,Campinas,SP,2025-05-28,Alta,468
+545,Cliente 545,F,62,São Paulo,SP,2023-01-25,Média,510
+546,Cliente 546,M,24,Porto Alegre,RS,2023-09-02,Alta,588
+547,Cliente 547,M,21,Campinas,SP,2024-10-02,Alta,862
+548,Cliente 548,F,30,Belo Horizonte,MG,2023-08-27,Média,389
+549,Cliente 549,F,23,São Paulo,SP,2025-07-31,Baixa,474
+550,Cliente 550,F,75,Curitiba,PR,2024-08-22,Média,707
+551,Cliente 551,M,41,Belo Horizonte,MG,2024-03-04,Alta,857
+552,Cliente 552,F,46,Curitiba,PR,2022-04-02,Baixa,756
+553,Cliente 553,M,27,Curitiba,PR,2025-03-01,Baixa,575
+554,Cliente 554,F,66,São Paulo,SP,2025-01-13,Alta,652
+555,Cliente 555,F,52,Porto Alegre,RS,2024-03-03,Alta,362
+556,Cliente 556,F,75,Curitiba,PR,2022-06-11,Média,606
+557,Cliente 557,M,31,São Paulo,SP,2022-12-21,Baixa,759
+558,Cliente 558,F,30,Rio de Janeiro,RJ,2022-06-10,Baixa,733
+559,Cliente 559,F,53,Rio de Janeiro,RJ,2022-06-28,Média,368
+560,Cliente 560,M,68,Curitiba,PR,2024-07-27,Média,832
+561,Cliente 561,M,54,Porto Alegre,RS,2022-11-03,Baixa,724
+562,Cliente 562,F,73,Porto Alegre,RS,2022-07-26,Baixa,876
+563,Cliente 563,F,54,Porto Alegre,RS,2024-02-24,Média,570
+564,Cliente 564,F,27,Porto Alegre,RS,2023-07-19,Baixa,476
+565,Cliente 565,M,21,Porto Alegre,RS,2023-11-10,Baixa,705
+566,Cliente 566,F,37,Curitiba,PR,2023-11-23,Média,320
+567,Cliente 567,M,37,Belo Horizonte,MG,2023-04-12,Alta,400
+568,Cliente 568,M,30,Curitiba,PR,2025-05-23,Média,726
+569,Cliente 569,F,70,Curitiba,PR,2024-11-23,Média,796
+570,Cliente 570,F,26,São Paulo,SP,2024-11-03,Baixa,618
+571,Cliente 571,M,33,Porto Alegre,RS,2023-02-16,Baixa,497
+572,Cliente 572,F,41,Campinas,SP,2023-02-12,Baixa,669
+573,Cliente 573,M,33,Curitiba,PR,2025-10-27,Alta,426
+574,Cliente 574,F,55,Belo Horizonte,MG,2022-12-30,Alta,756
+575,Cliente 575,M,36,Porto Alegre,RS,2023-06-14,Média,467
+576,Cliente 576,M,72,Campinas,SP,2025-03-17,Baixa,466
+577,Cliente 577,F,50,Rio de Janeiro,RJ,2023-07-06,Alta,511
+578,Cliente 578,M,56,São Paulo,SP,2025-08-18,Média,435
+579,Cliente 579,F,45,São Paulo,SP,2023-09-18,Média,922
+580,Cliente 580,F,37,Curitiba,PR,2023-03-23,Média,558
+581,Cliente 581,F,53,Porto Alegre,RS,2022-01-16,Alta,404
+582,Cliente 582,M,39,Porto Alegre,RS,2024-09-13,Média,410
+583,Cliente 583,F,30,Belo Horizonte,MG,2025-09-05,Média,567
+584,Cliente 584,F,61,Rio de Janeiro,RJ,2024-04-07,Baixa,914
+585,Cliente 585,F,44,Rio de Janeiro,RJ,2023-08-29,Alta,809
+586,Cliente 586,M,39,Curitiba,PR,2025-04-09,Alta,336
+587,Cliente 587,F,72,Rio de Janeiro,RJ,2024-11-04,Alta,667
+588,Cliente 588,M,65,Rio de Janeiro,RJ,2024-08-22,Média,399
+589,Cliente 589,M,32,Belo Horizonte,MG,2025-09-02,Alta,643
+590,Cliente 590,F,41,Belo Horizonte,MG,2024-05-11,Alta,614
+591,Cliente 591,M,73,Belo Horizonte,MG,2024-08-21,Média,420
+592,Cliente 592,M,73,Porto Alegre,RS,2024-10-21,Média,499
+593,Cliente 593,M,30,Curitiba,PR,2022-11-05,Média,355
+594,Cliente 594,F,73,Belo Horizonte,MG,2022-10-21,Alta,768
+595,Cliente 595,M,38,Rio de Janeiro,RJ,2025-07-16,Média,640
+596,Cliente 596,M,54,São Paulo,SP,2023-03-05,Média,580
+597,Cliente 597,F,58,Rio de Janeiro,RJ,2025-06-12,Baixa,432
+598,Cliente 598,M,20,Curitiba,PR,2024-02-25,Média,788
+599,Cliente 599,F,66,Porto Alegre,RS,2022-01-29,Alta,682
+600,Cliente 600,M,32,Porto Alegre,RS,2025-07-07,Baixa,304
+601,Cliente 601,F,28,Belo Horizonte,MG,2024-02-25,Baixa,405
+602,Cliente 602,F,45,São Paulo,SP,2024-07-22,Média,597
+603,Cliente 603,M,69,Rio de Janeiro,RJ,2023-01-21,Média,667
+604,Cliente 604,M,64,Curitiba,PR,2022-09-26,Baixa,529
+605,Cliente 605,M,42,São Paulo,SP,2025-08-25,Baixa,675
+606,Cliente 606,M,59,Belo Horizonte,MG,2025-09-17,Alta,349
+607,Cliente 607,F,42,São Paulo,SP,2024-05-03,Alta,418
+608,Cliente 608,M,37,Campinas,SP,2023-02-25,Média,456
+609,Cliente 609,M,44,Curitiba,PR,2023-07-07,Alta,832
+610,Cliente 610,F,30,São Paulo,SP,2022-08-06,Média,416
+611,Cliente 611,F,63,Porto Alegre,RS,2023-02-18,Média,835
+612,Cliente 612,F,31,Curitiba,PR,2025-01-27,Baixa,340
+613,Cliente 613,M,25,Curitiba,PR,2022-01-27,Baixa,302
+614,Cliente 614,M,64,Porto Alegre,RS,2024-11-13,Baixa,392
+615,Cliente 615,F,34,Campinas,SP,2024-07-24,Alta,536
+616,Cliente 616,F,41,Curitiba,PR,2022-03-22,Baixa,478
+617,Cliente 617,M,18,Belo Horizonte,MG,2022-07-14,Alta,418
+618,Cliente 618,F,74,Rio de Janeiro,RJ,2024-06-15,Média,666
+619,Cliente 619,F,43,Campinas,SP,2022-08-22,Média,487
+620,Cliente 620,M,25,Curitiba,PR,2024-05-13,Média,789
+621,Cliente 621,F,69,Rio de Janeiro,RJ,2024-05-02,Baixa,406
+622,Cliente 622,F,57,Porto Alegre,RS,2024-02-17,Baixa,925
+623,Cliente 623,F,46,São Paulo,SP,2022-08-20,Média,799
+624,Cliente 624,M,60,São Paulo,SP,2022-01-26,Média,621
+625,Cliente 625,F,60,Belo Horizonte,MG,2024-09-13,Média,554
+626,Cliente 626,M,59,Curitiba,PR,2022-04-22,Alta,927
+627,Cliente 627,F,38,Rio de Janeiro,RJ,2022-06-03,Média,469
+628,Cliente 628,M,53,Rio de Janeiro,RJ,2024-11-04,Média,351
+629,Cliente 629,F,69,Curitiba,PR,2024-07-29,Baixa,380
+630,Cliente 630,F,25,Porto Alegre,RS,2024-07-04,Baixa,810
+631,Cliente 631,M,53,Curitiba,PR,2024-04-24,Baixa,713
+632,Cliente 632,F,74,Porto Alegre,RS,2025-06-21,Baixa,918
+633,Cliente 633,F,70,Porto Alegre,RS,2023-11-30,Alta,767
+634,Cliente 634,F,63,São Paulo,SP,2025-02-21,Média,639
+635,Cliente 635,M,18,Belo Horizonte,MG,2025-09-11,Baixa,399
+636,Cliente 636,F,62,Belo Horizonte,MG,2025-01-26,Alta,598
+637,Cliente 637,F,24,São Paulo,SP,2022-10-15,Baixa,804
+638,Cliente 638,M,47,Belo Horizonte,MG,2024-03-15,Baixa,423
+639,Cliente 639,M,67,Rio de Janeiro,RJ,2022-04-06,Baixa,724
+640,Cliente 640,M,49,Curitiba,PR,2024-10-29,Alta,903
+641,Cliente 641,F,50,São Paulo,SP,2025-04-13,Alta,743
+642,Cliente 642,F,60,Rio de Janeiro,RJ,2022-08-01,Alta,431
+643,Cliente 643,M,35,Porto Alegre,RS,2024-05-07,Alta,693
+644,Cliente 644,M,44,Curitiba,PR,2022-10-01,Média,763
+645,Cliente 645,M,30,Porto Alegre,RS,2023-10-05,Alta,860
+646,Cliente 646,M,63,Rio de Janeiro,RJ,2025-10-09,Alta,653
+647,Cliente 647,F,55,Rio de Janeiro,RJ,2023-12-23,Alta,418
+648,Cliente 648,F,69,Porto Alegre,RS,2023-08-09,Alta,846
+649,Cliente 649,M,60,São Paulo,SP,2022-10-25,Baixa,690
+650,Cliente 650,F,27,São Paulo,SP,2023-08-10,Média,464
+651,Cliente 651,F,70,Campinas,SP,2022-03-08,Baixa,854
+652,Cliente 652,F,33,Curitiba,PR,2023-04-05,Alta,875
+653,Cliente 653,F,44,Porto Alegre,RS,2024-02-21,Alta,348
+654,Cliente 654,F,71,Belo Horizonte,MG,2023-02-20,Baixa,557
+655,Cliente 655,M,67,Rio de Janeiro,RJ,2025-05-20,Alta,859
+656,Cliente 656,M,29,Rio de Janeiro,RJ,2025-10-30,Média,481
+657,Cliente 657,F,53,Rio de Janeiro,RJ,2024-05-27,Média,341
+658,Cliente 658,M,39,Belo Horizonte,MG,2023-06-07,Baixa,898
+659,Cliente 659,M,67,Curitiba,PR,2023-10-23,Baixa,457
+660,Cliente 660,F,22,Porto Alegre,RS,2025-01-31,Média,886
+661,Cliente 661,M,44,Belo Horizonte,MG,2022-05-20,Baixa,833
+662,Cliente 662,M,60,Porto Alegre,RS,2023-03-30,Baixa,657
+663,Cliente 663,F,53,Belo Horizonte,MG,2023-03-24,Média,600
+664,Cliente 664,M,75,São Paulo,SP,2024-07-01,Alta,654
+665,Cliente 665,M,42,Porto Alegre,RS,2024-02-21,Baixa,628
+666,Cliente 666,F,49,Belo Horizonte,MG,2024-02-07,Baixa,829
+667,Cliente 667,M,24,Campinas,SP,2023-10-19,Alta,497
+668,Cliente 668,M,73,Rio de Janeiro,RJ,2023-03-08,Alta,367
+669,Cliente 669,M,65,Curitiba,PR,2024-06-10,Baixa,850
+670,Cliente 670,M,22,Rio de Janeiro,RJ,2022-03-19,Média,639
+671,Cliente 671,M,34,São Paulo,SP,2022-05-25,Média,871
+672,Cliente 672,F,38,Curitiba,PR,2024-04-08,Média,945
+673,Cliente 673,M,59,Campinas,SP,2024-12-31,Alta,421
+674,Cliente 674,M,40,Porto Alegre,RS,2022-04-04,Alta,899
+675,Cliente 675,M,36,Porto Alegre,RS,2025-05-27,Média,608
+676,Cliente 676,M,52,Curitiba,PR,2024-08-28,Média,331
+677,Cliente 677,F,58,Rio de Janeiro,RJ,2025-01-22,Alta,700
+678,Cliente 678,M,25,Rio de Janeiro,RJ,2022-01-23,Alta,682
+679,Cliente 679,M,37,São Paulo,SP,2024-03-18,Alta,910
+680,Cliente 680,M,28,Rio de Janeiro,RJ,2025-08-15,Baixa,722
+681,Cliente 681,M,29,Rio de Janeiro,RJ,2023-02-02,Alta,558
+682,Cliente 682,M,36,Porto Alegre,RS,2025-08-13,Alta,772
+683,Cliente 683,F,39,Campinas,SP,2025-04-04,Baixa,502
+684,Cliente 684,F,57,Belo Horizonte,MG,2022-07-24,Alta,540
+685,Cliente 685,F,57,São Paulo,SP,2024-07-11,Média,797
+686,Cliente 686,F,45,Belo Horizonte,MG,2024-01-17,Alta,880
+687,Cliente 687,F,35,Rio de Janeiro,RJ,2023-03-30,Média,552
+688,Cliente 688,F,46,Belo Horizonte,MG,2024-09-09,Alta,639
+689,Cliente 689,M,59,Belo Horizonte,MG,2022-08-11,Média,864
+690,Cliente 690,M,34,Porto Alegre,RS,2025-01-08,Média,443
+691,Cliente 691,M,70,São Paulo,SP,2025-07-17,Baixa,819
+692,Cliente 692,F,52,Porto Alegre,RS,2022-03-17,Alta,517
+693,Cliente 693,F,32,Porto Alegre,RS,2024-01-20,Alta,452
+694,Cliente 694,M,43,Porto Alegre,RS,2024-10-23,Baixa,775
+695,Cliente 695,M,66,Belo Horizonte,MG,2025-06-11,Alta,544
+696,Cliente 696,M,65,Porto Alegre,RS,2023-01-02,Média,463
+697,Cliente 697,M,22,Curitiba,PR,2024-09-25,Baixa,524
+698,Cliente 698,M,51,Belo Horizonte,MG,2025-10-01,Baixa,343
+699,Cliente 699,M,59,Belo Horizonte,MG,2022-04-06,Média,765
+700,Cliente 700,F,71,Belo Horizonte,MG,2025-07-21,Alta,833
+701,Cliente 701,M,51,Belo Horizonte,MG,2024-01-19,Média,687
+702,Cliente 702,F,70,Belo Horizonte,MG,2024-04-11,Baixa,828
+703,Cliente 703,M,46,Belo Horizonte,MG,2022-01-14,Média,918
+704,Cliente 704,F,31,Rio de Janeiro,RJ,2025-08-10,Baixa,826
+705,Cliente 705,M,60,Rio de Janeiro,RJ,2025-05-17,Baixa,670
+706,Cliente 706,F,48,Rio de Janeiro,RJ,2024-09-13,Média,416
+707,Cliente 707,M,20,Rio de Janeiro,RJ,2022-02-15,Alta,720
+708,Cliente 708,M,75,Rio de Janeiro,RJ,2024-11-15,Baixa,944
+709,Cliente 709,M,51,Porto Alegre,RS,2023-06-13,Baixa,470
+710,Cliente 710,M,46,Curitiba,PR,2022-06-25,Alta,590
+711,Cliente 711,F,56,Porto Alegre,RS,2023-03-26,Média,474
+712,Cliente 712,M,64,Rio de Janeiro,RJ,2023-06-26,Alta,823
+713,Cliente 713,M,42,Belo Horizonte,MG,2022-05-21,Alta,904
+714,Cliente 714,F,70,Curitiba,PR,2023-02-19,Baixa,316
+715,Cliente 715,M,74,Rio de Janeiro,RJ,2025-06-13,Baixa,787
+716,Cliente 716,M,75,Porto Alegre,RS,2025-09-12,Baixa,793
+717,Cliente 717,F,41,Porto Alegre,RS,2024-12-05,Alta,741
+718,Cliente 718,F,55,Campinas,SP,2024-02-20,Baixa,793
+719,Cliente 719,F,67,Porto Alegre,RS,2023-06-06,Média,437
+720,Cliente 720,F,34,Rio de Janeiro,RJ,2025-01-18,Média,912
+721,Cliente 721,M,51,Rio de Janeiro,RJ,2025-03-29,Alta,307
+722,Cliente 722,F,41,Campinas,SP,2023-10-09,Alta,510
+723,Cliente 723,F,72,São Paulo,SP,2023-06-04,Média,899
+724,Cliente 724,F,61,Porto Alegre,RS,2025-06-07,Alta,674
+725,Cliente 725,F,29,Curitiba,PR,2025-02-15,Média,865
+726,Cliente 726,F,67,Belo Horizonte,MG,2025-03-29,Média,614
+727,Cliente 727,F,68,Curitiba,PR,2023-04-16,Alta,421
+728,Cliente 728,F,69,Rio de Janeiro,RJ,2024-03-31,Baixa,820
+729,Cliente 729,M,69,Porto Alegre,RS,2025-07-26,Baixa,698
+730,Cliente 730,M,22,São Paulo,SP,2024-06-10,Média,914
+731,Cliente 731,M,64,Belo Horizonte,MG,2025-06-01,Média,381
+732,Cliente 732,M,67,Curitiba,PR,2023-08-10,Alta,833
+733,Cliente 733,F,30,Rio de Janeiro,RJ,2023-02-18,Média,310
+734,Cliente 734,M,41,São Paulo,SP,2025-10-12,Alta,473
+735,Cliente 735,F,40,Rio de Janeiro,RJ,2023-07-20,Baixa,388
+736,Cliente 736,M,65,Curitiba,PR,2024-11-26,Alta,505
+737,Cliente 737,F,40,São Paulo,SP,2025-02-19,Alta,591
+738,Cliente 738,F,54,Belo Horizonte,MG,2024-07-20,Alta,499
+739,Cliente 739,M,53,Campinas,SP,2024-11-02,Baixa,716
+740,Cliente 740,F,74,Campinas,SP,2024-11-17,Média,419
+741,Cliente 741,F,67,Porto Alegre,RS,2024-02-12,Alta,753
+742,Cliente 742,M,48,Rio de Janeiro,RJ,2025-04-16,Média,771
+743,Cliente 743,M,61,Campinas,SP,2025-07-21,Baixa,691
+744,Cliente 744,M,62,Rio de Janeiro,RJ,2024-11-23,Média,661
+745,Cliente 745,F,22,Belo Horizonte,MG,2024-03-28,Média,395
+746,Cliente 746,M,75,Porto Alegre,RS,2023-12-26,Média,621
+747,Cliente 747,M,33,Porto Alegre,RS,2024-10-18,Baixa,494
+748,Cliente 748,M,71,Rio de Janeiro,RJ,2023-02-20,Baixa,534
+749,Cliente 749,M,61,Porto Alegre,RS,2022-09-03,Baixa,409
+750,Cliente 750,F,57,Curitiba,PR,2024-09-14,Alta,343
+751,Cliente 751,M,66,Belo Horizonte,MG,2024-10-02,Alta,581
+752,Cliente 752,M,21,Porto Alegre,RS,2025-03-27,Média,527
+753,Cliente 753,F,43,Porto Alegre,RS,2022-03-08,Média,853
+754,Cliente 754,F,62,Rio de Janeiro,RJ,2024-07-31,Baixa,830
+755,Cliente 755,M,38,São Paulo,SP,2024-02-17,Alta,515
+756,Cliente 756,M,35,Belo Horizonte,MG,2023-06-23,Baixa,861
+757,Cliente 757,F,31,Curitiba,PR,2024-10-18,Média,488
+758,Cliente 758,F,29,Curitiba,PR,2023-07-27,Média,710
+759,Cliente 759,F,69,Porto Alegre,RS,2022-07-24,Alta,534
+760,Cliente 760,M,48,Rio de Janeiro,RJ,2022-10-26,Média,500
+761,Cliente 761,F,68,São Paulo,SP,2022-10-03,Média,811
+762,Cliente 762,M,43,Curitiba,PR,2025-03-08,Média,875
+763,Cliente 763,F,71,São Paulo,SP,2023-06-05,Baixa,520
+764,Cliente 764,F,41,Campinas,SP,2023-06-17,Alta,642
+765,Cliente 765,M,40,Porto Alegre,RS,2024-04-23,Média,320
+766,Cliente 766,M,67,Porto Alegre,RS,2025-08-23,Alta,889
+767,Cliente 767,F,74,Belo Horizonte,MG,2024-09-25,Média,822
+768,Cliente 768,M,73,Campinas,SP,2024-08-07,Alta,593
+769,Cliente 769,F,72,Rio de Janeiro,RJ,2025-06-08,Média,946
+770,Cliente 770,F,38,São Paulo,SP,2023-04-13,Baixa,651
+771,Cliente 771,F,67,Belo Horizonte,MG,2023-07-10,Alta,704
+772,Cliente 772,M,26,Belo Horizonte,MG,2023-01-12,Média,471
+773,Cliente 773,M,43,Rio de Janeiro,RJ,2023-03-08,Alta,381
+774,Cliente 774,M,19,São Paulo,SP,2025-01-28,Baixa,784
+775,Cliente 775,M,23,Curitiba,PR,2025-06-19,Baixa,568
+776,Cliente 776,F,58,Curitiba,PR,2023-08-05,Baixa,553
+777,Cliente 777,M,60,Rio de Janeiro,RJ,2022-02-28,Alta,474
+778,Cliente 778,F,53,Belo Horizonte,MG,2025-01-12,Média,778
+779,Cliente 779,F,58,Curitiba,PR,2022-12-29,Alta,852
+780,Cliente 780,F,48,Porto Alegre,RS,2023-09-27,Alta,846
+781,Cliente 781,F,44,Porto Alegre,RS,2023-09-23,Baixa,752
+782,Cliente 782,M,40,Belo Horizonte,MG,2022-01-01,Média,310
+783,Cliente 783,F,37,Belo Horizonte,MG,2024-10-04,Alta,308
+784,Cliente 784,M,53,Campinas,SP,2023-04-19,Média,911
+785,Cliente 785,F,33,Belo Horizonte,MG,2024-06-14,Média,874
+786,Cliente 786,M,45,Rio de Janeiro,RJ,2023-06-23,Média,525
+787,Cliente 787,F,30,Rio de Janeiro,RJ,2023-07-05,Média,844
+788,Cliente 788,F,57,São Paulo,SP,2022-08-15,Baixa,596
+789,Cliente 789,M,38,Curitiba,PR,2024-10-04,Alta,937
+790,Cliente 790,M,24,São Paulo,SP,2022-02-15,Baixa,847
+791,Cliente 791,M,23,Belo Horizonte,MG,2022-01-17,Baixa,748
+792,Cliente 792,F,37,Rio de Janeiro,RJ,2023-12-02,Média,522
+793,Cliente 793,M,71,Curitiba,PR,2023-11-08,Média,332
+794,Cliente 794,F,29,Rio de Janeiro,RJ,2022-05-27,Média,701
+795,Cliente 795,M,42,Rio de Janeiro,RJ,2022-09-07,Média,312
+796,Cliente 796,F,65,Curitiba,PR,2023-02-12,Alta,334
+797,Cliente 797,F,38,São Paulo,SP,2025-10-27,Média,698
+798,Cliente 798,M,34,Rio de Janeiro,RJ,2024-12-02,Alta,862
+799,Cliente 799,M,25,Curitiba,PR,2022-04-17,Baixa,669
+800,Cliente 800,F,55,Rio de Janeiro,RJ,2022-12-09,Média,315
+801,Cliente 801,F,62,Campinas,SP,2022-03-28,Baixa,309
+802,Cliente 802,M,49,Porto Alegre,RS,2023-05-25,Média,391
+803,Cliente 803,F,59,Campinas,SP,2022-05-03,Alta,361
+804,Cliente 804,F,53,Rio de Janeiro,RJ,2023-04-22,Baixa,799
+805,Cliente 805,F,40,Belo Horizonte,MG,2022-02-13,Alta,497
+806,Cliente 806,F,52,Rio de Janeiro,RJ,2024-06-15,Baixa,796
+807,Cliente 807,F,38,Curitiba,PR,2025-01-18,Alta,491
+808,Cliente 808,M,51,Curitiba,PR,2022-11-25,Alta,867
+809,Cliente 809,F,47,Rio de Janeiro,RJ,2025-01-14,Média,569
+810,Cliente 810,F,67,Campinas,SP,2022-02-08,Alta,489
+811,Cliente 811,F,30,Porto Alegre,RS,2025-09-10,Média,364
+812,Cliente 812,F,38,Porto Alegre,RS,2025-06-09,Alta,457
+813,Cliente 813,M,20,Curitiba,PR,2024-12-07,Baixa,398
+814,Cliente 814,F,30,Rio de Janeiro,RJ,2022-08-08,Baixa,506
+815,Cliente 815,F,51,São Paulo,SP,2025-09-09,Alta,697
+816,Cliente 816,M,18,Porto Alegre,RS,2023-03-29,Baixa,675
+817,Cliente 817,M,41,Rio de Janeiro,RJ,2025-08-01,Baixa,779
+818,Cliente 818,F,51,Porto Alegre,RS,2025-06-17,Média,359
+819,Cliente 819,M,24,São Paulo,SP,2023-03-19,Média,379
+820,Cliente 820,M,54,Rio de Janeiro,RJ,2024-12-13,Baixa,497
+821,Cliente 821,F,61,Rio de Janeiro,RJ,2025-07-31,Alta,408
+822,Cliente 822,F,50,Curitiba,PR,2023-01-05,Baixa,470
+823,Cliente 823,F,75,Belo Horizonte,MG,2024-06-26,Alta,914
+824,Cliente 824,F,70,Belo Horizonte,MG,2025-07-20,Média,722
+825,Cliente 825,F,67,Belo Horizonte,MG,2023-03-15,Alta,858
+826,Cliente 826,F,18,Porto Alegre,RS,2024-07-05,Média,763
+827,Cliente 827,M,74,Campinas,SP,2024-11-26,Alta,316
+828,Cliente 828,F,19,Belo Horizonte,MG,2023-03-16,Média,527
+829,Cliente 829,F,27,Belo Horizonte,MG,2024-07-31,Baixa,338
+830,Cliente 830,M,34,Rio de Janeiro,RJ,2023-05-27,Média,896
+831,Cliente 831,M,64,Belo Horizonte,MG,2025-03-11,Alta,709
+832,Cliente 832,M,56,Campinas,SP,2024-09-26,Média,477
+833,Cliente 833,M,67,Belo Horizonte,MG,2024-02-21,Alta,890
+834,Cliente 834,M,73,Campinas,SP,2024-05-03,Média,744
+835,Cliente 835,M,37,Rio de Janeiro,RJ,2024-02-23,Alta,947
+836,Cliente 836,M,38,Porto Alegre,RS,2025-03-02,Média,852
+837,Cliente 837,F,46,Porto Alegre,RS,2025-10-11,Baixa,351
+838,Cliente 838,F,27,Porto Alegre,RS,2023-08-17,Baixa,742
+839,Cliente 839,M,53,Rio de Janeiro,RJ,2025-03-16,Baixa,787
+840,Cliente 840,F,67,Curitiba,PR,2024-10-24,Baixa,708
+841,Cliente 841,F,43,Rio de Janeiro,RJ,2023-02-10,Média,872
+842,Cliente 842,M,33,Porto Alegre,RS,2024-12-09,Alta,930
+843,Cliente 843,M,25,Campinas,SP,2025-03-25,Média,631
+844,Cliente 844,F,40,Curitiba,PR,2023-01-26,Média,656
+845,Cliente 845,F,57,Porto Alegre,RS,2023-12-18,Média,473
+846,Cliente 846,F,27,Rio de Janeiro,RJ,2023-02-13,Baixa,539
+847,Cliente 847,M,73,São Paulo,SP,2023-05-13,Alta,355
+848,Cliente 848,F,48,Belo Horizonte,MG,2023-09-17,Média,413
+849,Cliente 849,M,52,Campinas,SP,2023-03-10,Baixa,850
+850,Cliente 850,M,62,Porto Alegre,RS,2025-06-29,Alta,794
+851,Cliente 851,F,28,Campinas,SP,2022-03-31,Alta,839
+852,Cliente 852,M,47,Campinas,SP,2023-07-10,Baixa,932
+853,Cliente 853,F,73,São Paulo,SP,2025-09-19,Média,577
+854,Cliente 854,F,50,São Paulo,SP,2023-04-19,Média,695
+855,Cliente 855,M,29,Campinas,SP,2024-12-24,Média,911
+856,Cliente 856,M,51,Rio de Janeiro,RJ,2022-03-23,Alta,322
+857,Cliente 857,M,40,Belo Horizonte,MG,2022-11-18,Média,702
+858,Cliente 858,F,69,Belo Horizonte,MG,2023-04-29,Alta,609
+859,Cliente 859,F,32,Campinas,SP,2025-02-10,Média,330
+860,Cliente 860,F,51,Rio de Janeiro,RJ,2022-06-29,Média,440
+861,Cliente 861,M,45,Porto Alegre,RS,2025-03-19,Média,546
+862,Cliente 862,M,59,Belo Horizonte,MG,2022-09-27,Média,855
+863,Cliente 863,M,45,Rio de Janeiro,RJ,2024-12-08,Baixa,616
+864,Cliente 864,M,29,Rio de Janeiro,RJ,2025-02-15,Média,369
+865,Cliente 865,F,44,Belo Horizonte,MG,2023-10-15,Alta,330
+866,Cliente 866,M,24,Belo Horizonte,MG,2022-11-08,Alta,580
+867,Cliente 867,F,56,Rio de Janeiro,RJ,2025-06-17,Baixa,926
+868,Cliente 868,M,40,Porto Alegre,RS,2023-04-18,Alta,537
+869,Cliente 869,F,63,Campinas,SP,2025-05-23,Baixa,814
+870,Cliente 870,M,28,Belo Horizonte,MG,2024-08-28,Média,803
+871,Cliente 871,F,44,Rio de Janeiro,RJ,2022-01-31,Baixa,718
+872,Cliente 872,F,73,Rio de Janeiro,RJ,2022-12-29,Baixa,367
+873,Cliente 873,M,45,Porto Alegre,RS,2024-07-26,Alta,632
+874,Cliente 874,F,57,Curitiba,PR,2023-10-03,Alta,689
+875,Cliente 875,F,70,Porto Alegre,RS,2024-07-13,Alta,411
+876,Cliente 876,M,53,São Paulo,SP,2024-03-21,Alta,850
+877,Cliente 877,F,74,Curitiba,PR,2024-06-19,Baixa,598
+878,Cliente 878,F,57,Belo Horizonte,MG,2024-05-15,Média,470
+879,Cliente 879,M,29,São Paulo,SP,2022-07-05,Média,762
+880,Cliente 880,F,19,Porto Alegre,RS,2023-10-25,Média,723
+881,Cliente 881,M,34,Rio de Janeiro,RJ,2024-07-20,Alta,506
+882,Cliente 882,M,63,Belo Horizonte,MG,2022-07-06,Alta,426
+883,Cliente 883,M,42,Curitiba,PR,2024-02-26,Baixa,836
+884,Cliente 884,M,28,Porto Alegre,RS,2023-11-18,Baixa,474
+885,Cliente 885,F,37,Rio de Janeiro,RJ,2024-05-09,Alta,352
+886,Cliente 886,M,30,Curitiba,PR,2022-08-29,Alta,485
+887,Cliente 887,F,52,Campinas,SP,2024-10-16,Baixa,769
+888,Cliente 888,F,47,Campinas,SP,2025-04-20,Baixa,522
+889,Cliente 889,M,33,Curitiba,PR,2025-05-14,Baixa,915
+890,Cliente 890,M,21,Porto Alegre,RS,2025-02-15,Alta,943
+891,Cliente 891,M,72,Rio de Janeiro,RJ,2022-03-17,Baixa,657
+892,Cliente 892,M,44,Campinas,SP,2022-04-11,Média,389
+893,Cliente 893,M,47,Rio de Janeiro,RJ,2025-06-05,Alta,591
+894,Cliente 894,F,41,Porto Alegre,RS,2023-09-05,Baixa,395
+895,Cliente 895,F,48,Curitiba,PR,2022-05-13,Média,863
+896,Cliente 896,F,51,Rio de Janeiro,RJ,2023-11-06,Alta,581
+897,Cliente 897,M,48,Rio de Janeiro,RJ,2022-08-12,Alta,359
+898,Cliente 898,F,51,Porto Alegre,RS,2023-10-11,Média,923
+899,Cliente 899,F,51,Porto Alegre,RS,2025-02-26,Baixa,929
+900,Cliente 900,F,30,Curitiba,PR,2023-04-22,Baixa,924
+901,Cliente 901,M,65,São Paulo,SP,2025-07-04,Baixa,776
+902,Cliente 902,F,53,Rio de Janeiro,RJ,2023-11-15,Média,346
+903,Cliente 903,F,68,Rio de Janeiro,RJ,2023-07-31,Alta,506
+904,Cliente 904,F,67,Campinas,SP,2025-01-31,Média,818
+905,Cliente 905,F,64,São Paulo,SP,2023-12-01,Alta,641
+906,Cliente 906,F,61,Porto Alegre,RS,2023-11-08,Baixa,498
+907,Cliente 907,M,58,Curitiba,PR,2024-09-13,Baixa,439
+908,Cliente 908,F,54,Curitiba,PR,2022-04-25,Média,723
+909,Cliente 909,F,22,Belo Horizonte,MG,2023-11-11,Baixa,891
+910,Cliente 910,M,54,Rio de Janeiro,RJ,2024-02-08,Baixa,647
+911,Cliente 911,F,63,Porto Alegre,RS,2022-08-28,Baixa,909
+912,Cliente 912,F,74,Belo Horizonte,MG,2022-06-27,Média,723
+913,Cliente 913,F,29,Rio de Janeiro,RJ,2023-03-19,Média,609
+914,Cliente 914,F,50,Campinas,SP,2022-07-09,Baixa,506
+915,Cliente 915,F,48,Campinas,SP,2023-01-25,Alta,457
+916,Cliente 916,M,31,Porto Alegre,RS,2022-07-21,Média,446
+917,Cliente 917,M,37,Campinas,SP,2022-08-26,Média,834
+918,Cliente 918,M,51,São Paulo,SP,2022-04-05,Média,778
+919,Cliente 919,M,38,Belo Horizonte,MG,2025-08-01,Alta,619
+920,Cliente 920,F,67,Rio de Janeiro,RJ,2024-12-26,Média,583
+921,Cliente 921,F,25,Curitiba,PR,2022-11-19,Média,452
+922,Cliente 922,F,35,São Paulo,SP,2023-12-19,Baixa,855
+923,Cliente 923,M,37,Rio de Janeiro,RJ,2022-12-17,Alta,550
+924,Cliente 924,M,19,Porto Alegre,RS,2022-04-14,Alta,754
+925,Cliente 925,M,45,Curitiba,PR,2022-04-21,Baixa,692
+926,Cliente 926,F,57,Curitiba,PR,2025-04-28,Alta,910
+927,Cliente 927,M,66,Belo Horizonte,MG,2025-10-05,Média,502
+928,Cliente 928,F,37,Curitiba,PR,2022-07-19,Baixa,779
+929,Cliente 929,F,41,Curitiba,PR,2022-10-22,Baixa,529
+930,Cliente 930,F,49,Curitiba,PR,2023-10-28,Alta,638
+931,Cliente 931,F,47,São Paulo,SP,2023-12-21,Média,415
+932,Cliente 932,M,50,Rio de Janeiro,RJ,2025-03-22,Média,918
+933,Cliente 933,M,68,Campinas,SP,2023-10-30,Alta,409
+934,Cliente 934,M,57,Belo Horizonte,MG,2024-04-26,Média,904
+935,Cliente 935,F,31,Rio de Janeiro,RJ,2022-05-16,Média,693
+936,Cliente 936,M,29,Porto Alegre,RS,2023-12-02,Média,880
+937,Cliente 937,F,38,Campinas,SP,2025-05-05,Baixa,906
+938,Cliente 938,F,22,Porto Alegre,RS,2023-09-23,Média,480
+939,Cliente 939,F,49,Porto Alegre,RS,2024-02-16,Alta,910
+940,Cliente 940,M,66,São Paulo,SP,2025-04-04,Baixa,442
+941,Cliente 941,F,57,Rio de Janeiro,RJ,2023-08-20,Média,844
+942,Cliente 942,F,37,Porto Alegre,RS,2025-10-27,Baixa,510
+943,Cliente 943,M,57,Porto Alegre,RS,2022-07-02,Média,652
+944,Cliente 944,F,75,Porto Alegre,RS,2022-05-08,Baixa,601
+945,Cliente 945,M,73,Porto Alegre,RS,2024-01-06,Baixa,873
+946,Cliente 946,F,58,Belo Horizonte,MG,2025-04-23,Baixa,742
+947,Cliente 947,M,60,Belo Horizonte,MG,2024-06-10,Média,690
+948,Cliente 948,F,71,Rio de Janeiro,RJ,2025-02-11,Baixa,492
+949,Cliente 949,M,26,Belo Horizonte,MG,2025-10-04,Baixa,595
+950,Cliente 950,F,60,São Paulo,SP,2022-10-22,Alta,316
+951,Cliente 951,F,73,Curitiba,PR,2025-08-08,Baixa,440
+952,Cliente 952,F,53,Curitiba,PR,2024-07-19,Alta,484
+953,Cliente 953,F,56,Curitiba,PR,2023-01-16,Média,531
+954,Cliente 954,F,44,Campinas,SP,2024-10-24,Alta,542
+955,Cliente 955,F,63,Porto Alegre,RS,2025-03-09,Baixa,338
+956,Cliente 956,M,64,Belo Horizonte,MG,2022-06-13,Alta,793
+957,Cliente 957,M,33,Porto Alegre,RS,2022-06-10,Média,829
+958,Cliente 958,F,57,Curitiba,PR,2025-01-09,Alta,948
+959,Cliente 959,F,50,Campinas,SP,2024-08-18,Alta,311
+960,Cliente 960,F,28,Curitiba,PR,2023-08-27,Média,661
+961,Cliente 961,M,58,Campinas,SP,2023-06-18,Alta,877
+962,Cliente 962,F,69,Curitiba,PR,2025-09-06,Alta,352
+963,Cliente 963,M,50,Porto Alegre,RS,2022-06-18,Média,796
+964,Cliente 964,F,35,Campinas,SP,2025-06-15,Média,435
+965,Cliente 965,M,55,Belo Horizonte,MG,2025-05-21,Alta,414
+966,Cliente 966,M,49,Rio de Janeiro,RJ,2023-06-20,Média,479
+967,Cliente 967,M,71,Rio de Janeiro,RJ,2022-10-25,Média,386
+968,Cliente 968,F,64,Curitiba,PR,2025-09-15,Média,543
+969,Cliente 969,F,66,Rio de Janeiro,RJ,2022-04-22,Alta,653
+970,Cliente 970,F,37,São Paulo,SP,2024-03-27,Baixa,775
+971,Cliente 971,F,27,Curitiba,PR,2024-08-29,Média,699
+972,Cliente 972,F,61,Porto Alegre,RS,2024-07-08,Baixa,595
+973,Cliente 973,F,72,Belo Horizonte,MG,2025-07-29,Baixa,844
+974,Cliente 974,M,34,Curitiba,PR,2023-07-01,Média,576
+975,Cliente 975,M,51,Porto Alegre,RS,2025-10-08,Média,547
+976,Cliente 976,M,71,Belo Horizonte,MG,2022-01-22,Média,860
+977,Cliente 977,M,61,São Paulo,SP,2024-12-11,Média,400
+978,Cliente 978,M,20,Curitiba,PR,2023-05-31,Baixa,590
+979,Cliente 979,M,56,São Paulo,SP,2025-09-06,Baixa,908
+980,Cliente 980,F,60,São Paulo,SP,2022-09-24,Baixa,919
+981,Cliente 981,F,47,Porto Alegre,RS,2023-06-03,Baixa,488
+982,Cliente 982,F,34,Campinas,SP,2025-09-29,Média,737
+983,Cliente 983,F,39,Rio de Janeiro,RJ,2024-02-23,Média,363
+984,Cliente 984,M,49,Campinas,SP,2024-06-21,Média,482
+985,Cliente 985,M,52,Rio de Janeiro,RJ,2022-08-11,Baixa,803
+986,Cliente 986,F,24,Curitiba,PR,2024-06-23,Alta,408
+987,Cliente 987,F,19,São Paulo,SP,2023-05-29,Baixa,885
+988,Cliente 988,F,35,Curitiba,PR,2022-03-19,Alta,300
+989,Cliente 989,F,48,Rio de Janeiro,RJ,2022-01-08,Média,888
+990,Cliente 990,M,18,Curitiba,PR,2025-01-11,Alta,371
+991,Cliente 991,F,39,Curitiba,PR,2025-01-01,Baixa,880
+992,Cliente 992,M,41,Belo Horizonte,MG,2025-08-18,Baixa,947
+993,Cliente 993,M,29,Porto Alegre,RS,2023-08-17,Baixa,770
+994,Cliente 994,F,75,Porto Alegre,RS,2023-09-05,Média,495
+995,Cliente 995,F,65,Campinas,SP,2025-07-19,Média,386
+996,Cliente 996,M,49,Rio de Janeiro,RJ,2022-02-21,Baixa,497
+997,Cliente 997,F,19,Curitiba,PR,2024-10-20,Alta,615
+998,Cliente 998,F,25,Campinas,SP,2022-03-29,Baixa,645
+999,Cliente 999,M,22,Rio de Janeiro,RJ,2022-11-02,Alta,849
+1000,Cliente 1000,M,33,São Paulo,SP,2024-08-23,Média,319
